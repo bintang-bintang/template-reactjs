@@ -11,7 +11,6 @@ Terdapat beberapa dependencies yang saya gunakan, antara lain: <br/:
 <br/>
 
 ## Instalasi
----
 * git clone https://github.com/bintang-bintang/template-reactjs.git
 * cd template-reactjs
 * npm install
