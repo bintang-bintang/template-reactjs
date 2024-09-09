@@ -1,5 +1,5 @@
 # Template Vite + ReactJS
-## Ini adalah template ReactJS opsi yang saya gunakan
+<b>Ini adalah template ReactJS preferensi yang saya gunakan </b>
 ---
 Terdapat beberapa dependencies yang saya gunakan, antara lain: <br/:
 1. react-router-dom
@@ -10,12 +10,12 @@ Terdapat beberapa dependencies yang saya gunakan, antara lain: <br/:
 6. autoprefixer
 <br/>
 
-## Cara instalasi
+## Instalasi
 ---
 * git clone https://github.com/bintang-bintang/template-reactjs.git
 * cd template-reactjs
 * npm install
-
+<br/>
 
 # React + Vite
 
