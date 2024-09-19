@@ -1,6 +1,9 @@
 # Template Vite + ReactJS
 <b>Ini adalah template ReactJS preferensi yang saya gunakan </b>
 ---
+
+Jangan lupa ketik "git remote remove origin" dahulu
+
 Terdapat beberapa dependencies yang saya gunakan, antara lain: <br/:
 1. react-router-dom
 2. react-script
