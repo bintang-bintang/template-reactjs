@@ -2,7 +2,10 @@
 <b>Ini adalah template ReactJS preferensi yang saya gunakan </b>
 ---
 
-Jangan lupa ketik "git remote remove origin" dahulu
+Jangan lupa ketik: <br/:
+1. "git remote remove origin"
+2. "rm -rf .git"
+<br/>
 
 Terdapat beberapa dependencies yang saya gunakan, antara lain: <br/:
 1. react-router-dom
