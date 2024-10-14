@@ -6,7 +6,7 @@ Jangan lupa ketik "git remote remove origin" dahulu
 
 Terdapat beberapa dependencies yang saya gunakan, antara lain: <br/:
 1. react-router-dom
-2. react-script
+2. react-icons
 3. framer-motion
 4. tailwindcss
 5. postcss
